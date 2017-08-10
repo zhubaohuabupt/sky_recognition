@@ -4,7 +4,7 @@ get_img_without_sky_opt(cv::Mat souceimg,cv::Mat &out)
 
 
 
-使用说明 ：
+使用说明 (在vs下开发的)：
 1 依赖：opencv 
         Eigen 
 
